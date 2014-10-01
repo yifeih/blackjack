@@ -53,4 +53,4 @@ This file holds some of the print statements used to make the user-interface
 part of the game.
 
 Utilities.rb:
-
+Contains some constants and general functions used throughout the program.
